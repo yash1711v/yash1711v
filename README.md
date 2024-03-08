@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [HabbitUP](https://github.com/yash1711v/HabbitUP.git)
 
-- 🌱 I’m currently learning **Ios Development**
+- 🌱 I’m currently learning **IOS Development**
 
 - 💬 Ask me about **Flutter , Android Java**
 
