@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash1711v&label=Profile%20views&color=0e75b6&style=flat" alt="yash1711v" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash1711v" alt="yash1711v" /></a> </p>
-
 - 🔭 I’m currently working on [HabbitUP](https://github.com/yash1711v/HabbitUP.git)
 
 - 🌱 I’m currently learning **Ios Development**
