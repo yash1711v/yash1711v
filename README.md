@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Yash Verma
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7F7&center=true&vCenter=true&width=940&lines=Software+Development+Engineer+🚀;3%2B+Years+in+Mobile+Development+💻;Flutter+%7C+iOS+%7C+Android+Expert+📱;Building+AI-Driven+Products+✨" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=940&height=70&lines=Software+Development+Engineer+%F0%9F%9A%80;3%2B+Years+in+Mobile+Development+%F0%9F%92%BB;Flutter+%7C+iOS+%7C+Android+Expert+%F0%9F%93%B1;Building+AI-Driven+Products+%E2%9C%A8" alt="Typing SVG" /></a>
 
 <br/>
 
