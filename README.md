@@ -2,10 +2,6 @@
 
 # 👋 Hi, I'm Yash Verma
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7F7&center=true&vCenter=true&width=940&lines=Software+Development+Engineer+🚀;3%2B+Years+in+Mobile+Development+💻;Flutter+%7C+iOS+%7C+Android+Expert+📱;Building+AI-Driven+Products+✨" alt="Typing SVG" />
-
-<br/>
-
 ### 🌟 Software Development Engineer | Mobile App Specialist from India 🇮🇳
 
 <p>
