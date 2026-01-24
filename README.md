@@ -22,24 +22,39 @@
 
 ## 🚀 About Me
 
-```javascript
-const yash = {
-    role: "Mobile App Developer",
-    currentProject: "HabbitUP 🎯",
-    learning: ["iOS Development", "Swift"],
-    expertise: ["Flutter", "Android (Java)", "UI/UX"],
-    email: "yv48183@gmail.com",
-    motto: "I turn coffee into code ☕️"
-};
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍💻 Quick Facts
+
+- 🔭 Currently building **[HabbitUP](https://github.com/yash1711v/HabbitUP.git)** 🎯
+- 🌱 Mastering **iOS Development** & **Swift**
+- 💬 Ask me about **Flutter, Android (Java), Mobile Architecture**
+- 📫 Email: **yv48183@gmail.com**
+- ⚡ Fun fact: **I turn coffee into code** ☕️
+
+</td>
+<td width="50%">
+
+### 🎯 Current Focus
+
+```dart
+class YashVerma {
+  String role = "Mobile App Developer";
+  String project = "HabbitUP 🎯";
+  List<String> learning = ["iOS", "Swift"];
+  List<String> expertise = [
+    "Flutter", 
+    "Android (Java)", 
+    "UI/UX"
+  ];
+}
 ```
 
-<br/>
-
-- 🔭 Currently building **[HabbitUP](https://github.com/yash1711v/HabbitUP.git)** - Habit tracking made easy
-- 🌱 Mastering **iOS Development** with **Swift**
-- 💬 Talk to me about **Flutter, Android (Java), Mobile Architecture**
-- 📫 Reach me: **yv48183@gmail.com**
-- ⚡ Fun fact: **I debug faster than I can type**
+</td>
+</tr>
+</table>
 
 <br/><br/>
 
