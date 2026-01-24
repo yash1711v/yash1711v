@@ -2,6 +2,10 @@
 
 # 👋 Hi, I'm Yash Verma
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7F7&center=true&vCenter=true&width=940&lines=Software+Development+Engineer+🚀;3%2B+Years+in+Mobile+Development+💻;Flutter+%7C+iOS+%7C+Android+Expert+📱;Building+AI-Driven+Products+✨" alt="Typing SVG" />
+
+<br/>
+
 ### 🌟 Software Development Engineer | Mobile App Specialist from India 🇮🇳
 
 <p>
@@ -12,15 +16,7 @@
 
 </div>
 
-<br/>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 ## 🚀 About Me
-
-<table>
-<tr>
-<td width="50%">
 
 ### 👨‍💻 What I'm Up To
 
@@ -31,9 +27,6 @@
 - 🎯 Focus: Cross-platform apps with AI integration
 - 🏅 **Best Project Award** recipient
 - 📫 **yv48183@gmail.com** | **+91 9971104827**
-
-</td>
-<td width="50%">
 
 ### 🎯 Expertise
 
@@ -53,10 +46,6 @@ class YashVerma {
   ];
 }
 ```
-
-</td>
-</tr>
-</table>
 
 <br/>
 
