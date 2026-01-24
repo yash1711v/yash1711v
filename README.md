@@ -1,102 +1,140 @@
 <div align="center">
-  
-# 👋 Hi, I'm Yash Verma
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Mobile+App+Developer;Flutter+Enthusiast;iOS+Developer;Open+Source+Contributor" />
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi, I'm Yash Verma
 
-### A passionate Mobile Application Developer from India 🇮🇳
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7F7&center=true&vCenter=true&width=940&lines=Mobile+Application+Developer+🚀;Flutter+%7C+Android+%7C+iOS+Expert+💻;Building+Cross-Platform+Experiences+✨;Always+Learning+New+Technologies+📱" alt="Typing SVG" />
+
+<br/>
+
+### 🌟 A passionate Mobile Application Developer from India 🇮🇳
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=yash1711v&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/yash1711v?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=yash1711v&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/yash1711v?label=Followers&style=for-the-badge&color=00D9FF&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/yash1711v?label=Stars&style=for-the-badge&color=00D9FF&logo=github" alt="GitHub stars" />
 </p>
 
 </div>
 
----
+<br/>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 🚀 About Me
 
 ```javascript
 const yash = {
-    currentFocus: "Building HabbitUP 🎯",
+    role: "Mobile App Developer",
+    currentProject: "HabbitUP 🎯",
     learning: ["iOS Development", "Swift"],
-    expertise: ["Flutter", "Android (Java)", "Mobile UI/UX"],
-    contact: "yv48183@gmail.com",
-    funFact: "I turn coffee into code ☕️"
+    expertise: ["Flutter", "Android (Java)", "UI/UX"],
+    email: "yv48183@gmail.com",
+    motto: "I turn coffee into code ☕️"
 };
 ```
 
-- 🔭 Currently working on **[HabbitUP](https://github.com/yash1711v/HabbitUP.git)** - A habit tracking application
-- 🌱 Learning **iOS Development** and mastering **Swift**
-- 💬 Ask me about **Flutter, Android (Java), Mobile App Architecture**
-- 📫 Reach me at **yv48183@gmail.com**
-- ⚡ Building cross-platform experiences that users love
+<br/>
+
+- 🔭 Currently building **[HabbitUP](https://github.com/yash1711v/HabbitUP.git)** - Habit tracking made easy
+- 🌱 Mastering **iOS Development** with **Swift**
+- 💬 Talk to me about **Flutter, Android (Java), Mobile Architecture**
+- 📫 Reach me: **yv48183@gmail.com**
+- ⚡ Fun fact: **I debug faster than I can type**
+
+<br/><br/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-### Mobile Development
+<div align="center">
+
+### 📱 Mobile Development
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-### Backend & Database
+### 🔥 Backend & Database
 <p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
-### Tools & Design
+### 🎨 Design & Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yash1711v&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yash1711v&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash1711v&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
+<br/>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yash1711v&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yash1711v&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Yash Verma github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=yash1711v&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 </div>
+
+<div align="center">
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash1711v&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+</div>
+
+<br/>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash1711v&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yash1711v&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7" width="100%" alt="Trophy" />
 </div>
+
+<br/>
 
 ---
 
-## 🤝 Connect With Me
+## 📈 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yash1711v/yash1711v/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash1711v/yash1711v/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yash1711v/yash1711v/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash1711v&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
+<br/>
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
   <a href="mailto:yv48183@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/yash1711v">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -104,15 +142,24 @@ const yash = {
   <a href="https://www.linkedin.com/in/yash-verma">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://twitter.com/yash1711v">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
-  
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### ✨ Show some ❤️ by starring some repositories!
+### 💭 Dev Quote of the Day
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<br/>
+
+### ✨ Show some ❤️ by starring repositories!
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
